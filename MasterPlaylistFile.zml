@@ -1,0 +1,48 @@
+<?zml version="1.0"?>
+<smil>
+  <playlist>
+    <head>
+      <meta name="containerType" content="1" />
+      <meta name="totalDuration" content="1472" />
+      <meta name="itemCount" content="6" />
+      <title>kk</title>
+    </head>
+    <body>
+      <seq>
+        <media src="C:\Users\Mayank\Music\Hindi\Matru Ki Bijli Ka Man Dola\[Songs.PK] 06 - Badal Uthiya.mp3" albumTitle="Matru Ki Bijlee Ka Mandola" albumArtist="Vishal Bhardwaj" trackTitle="Badal Uthiya - www.Songs.PK" trackArtist="Rekha Bhardwaj" duration="198530" />
+        <media src="C:\Users\Mayank\Music\English\M-I_like\Chaska - Honey Singh.mp3" albumTitle="[Rp] The Crown" albumArtist="[Rp] Raja Baath" trackTitle="Chaska(By.ReshamMahal)" trackArtist="[Rp] Raja Baath" duration="196414" />
+        <media src="C:\Users\Mayank\Music\English\M-I_like\We Never Change - Coldplay.mp3" albumTitle="Parachutes" albumArtist="Coldplay" trackTitle="We Never Change" trackArtist="Coldplay" duration="249521" />
+        <media src="C:\Users\Mayank\Music\Hindi\Johnny Gaddaar\Johnny Breakbeat Mera Naam.mp3" albumTitle="Johnny Gaddaar" albumArtist="[Bollym4u.com]" trackTitle="Johnny Breakbeat Mera Naam" trackArtist="Johnny Gaddaar" duration="209293" />
+        <media src="C:\Users\Mayank\Music\Hindi\Johnny Gaddaar\Johnny Gaddaar.mp3" albumTitle="Johnny Gaddaar" albumArtist="[Bollym4u.com]" trackTitle="Johnny Gaddaar" trackArtist="Johnny Gaddaar" duration="299493" />
+        <media src="C:\Users\Mayank\Music\English\M-I_like\Babam Bam @ Mp3HunGama.com.mp3" albumTitle="Jhoomo Re @ Mp3HunGama.com" albumArtist="Kailash kher" trackTitle="Babam Bam @ Mp3HunGama.com" trackArtist="Kailash kher" duration="318615" />
+      </seq>
+    </body>
+  </playlist>
+  <playlist>
+    <head>
+      <guid>{86673DE2-D1D2-4C49-A542-7BC088A36C64}</guid>
+      <meta name="containerType" content="2" />
+      <meta name="fileUrl" content="C:\Users\Mayank\Music\English\M-I_like\linkin park\Linkin Park - Meteora (2003) 320 Kbps\Linkin Park - 00 - Meteora.m3u" />
+      <meta name="totalDuration" content="2199" />
+      <meta name="itemCount" content="13" />
+      <title>Linkin Park - 00 - Meteora</title>
+    </head>
+    <body>
+      <seq>
+        <media src="C:\Users\Mayank\Music\English\M-I_like\linkin park\Linkin Park - Meteora (2003) 320 Kbps\Linkin Park - 01 - Foreword.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Foreword" trackArtist="Linkin Park" duration="13537" />
+        <media src="C:\Users\Mayank\Music\English\M-I_like\linkin park\Linkin Park - Meteora (2003) 320 Kbps\Linkin Park - 02 - Don't Stay.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Don't Stay" trackArtist="Linkin Park" duration="188008" />
+        <media src="C:\Users\Mayank\Music\English\M-I_like\linkin park\Linkin Park - Meteora (2003) 320 Kbps\Linkin Park - 03 - Somewhere I Belong.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Somewhere I Belong" trackArtist="Linkin Park" duration="214027" />
+        <media src="C:\Users\Mayank\Music\English\M-I_like\linkin park\Linkin Park - Meteora (2003) 320 Kbps\Linkin Park - 04 - Lying From You.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Lying From You" trackArtist="Linkin Park" duration="175130" />
+        <media src="C:\Users\Mayank\Music\English\M-I_like\linkin park\Linkin Park - Meteora (2003) 320 Kbps\Linkin Park - 05 - Hit The Floor.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Hit The Floor" trackArtist="Linkin Park" duration="164289" />
+        <media src="C:\Users\Mayank\Music\English\M-I_like\linkin park\Linkin Park - Meteora (2003) 320 Kbps\Linkin Park - 06 - Easier To Run.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Easier To Run" trackArtist="Linkin Park" duration="204257" />
+        <media src="C:\Users\Mayank\Music\English\M-I_like\linkin park\Linkin Park - Meteora (2003) 320 Kbps\Linkin Park - 07 - Faint.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Faint" trackArtist="Linkin Park" duration="162199" />
+        <media src="C:\Users\Mayank\Music\English\M-I_like\linkin park\Linkin Park - Meteora (2003) 320 Kbps\Linkin Park - 08 - Figure.09.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Figure.09" trackArtist="Linkin Park" duration="197595" />
+        <media src="C:\Users\Mayank\Music\English\M-I_like\linkin park\Linkin Park - Meteora (2003) 320 Kbps\Linkin Park - 09 - Breaking The Habit.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Breaking The Habit" trackArtist="Linkin Park" duration="196211" />
+        <media src="C:\Users\Mayank\Music\English\M-I_like\linkin park\Linkin Park - Meteora (2003) 320 Kbps\Linkin Park - 10 - From The Inside.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="From The Inside" trackArtist="Linkin Park" duration="175600" />
+        <media src="C:\Users\Mayank\Music\English\M-I_like\linkin park\Linkin Park - Meteora (2003) 320 Kbps\Linkin Park - 11 - Nobody's Listening.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Nobody's Listening" trackArtist="Linkin Park" duration="178944" />
+        <media src="C:\Users\Mayank\Music\English\M-I_like\linkin park\Linkin Park - Meteora (2003) 320 Kbps\Linkin Park - 12 - Session.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Session" trackArtist="Linkin Park" duration="144828" />
+        <media src="C:\Users\Mayank\Music\English\M-I_like\linkin park\Linkin Park - Meteora (2003) 320 Kbps\Linkin Park - 13 - Numb.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Numb" trackArtist="Linkin Park" duration="187616" />
+      </seq>
+    </body>
+  </playlist>
+</smil>
